@@ -1,0 +1,11 @@
+{
+  "name": "My Stardima Repo",
+  "description": "Extensions for Stardima.one",
+  "extensions": [
+    {
+      "name": "Stardima.one",
+      "apk": "Stardima_one.cs3",
+      "version": 1
+    }
+  ]
+}
