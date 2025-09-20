@@ -1,0 +1,11 @@
+{
+  "name": "Stardima",
+  "description": "Stardima.one extension for Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "Stardima",
+      "url": "https://raw.githubusercontent.com/souhailfriouchen13-beep/Cloudstream-Stardima/main/Stardima/build.gradle.kts"
+    }
+  ]
+}
