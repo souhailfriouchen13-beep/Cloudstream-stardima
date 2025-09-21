@@ -1,0 +1,6 @@
+{
+  "name": "Stardima",
+  "baseUrl": "https://stardima.one",
+  "supportedTypes": ["Movie","TvSeries","Anime"],
+  "hasDownload": true
+}
